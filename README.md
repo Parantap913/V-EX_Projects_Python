@@ -1,1 +1,1 @@
-# V-EX_TECH_Projects_Python
+This respository contains my internship projects.
